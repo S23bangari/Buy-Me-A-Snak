@@ -10,7 +10,7 @@ const TermsAndConditions = () => {
           <strong>Effective Date:</strong> {date}
         </p>
         <p className="text-gray-300 mb-6">
-          Welcome to Get Me A Chai. By using our website, you agree to comply with and be bound by the following terms and conditions:
+          Welcome to Buy me a Snack. By using our website, you agree to comply with and be bound by the following terms and conditions:
         </p>
         <h2 className="text-xl font-bold mb-4">User Responsibilities:</h2>
         <ul className="list-disc pl-6 mb-6">
@@ -23,7 +23,7 @@ const TermsAndConditions = () => {
           <li>Posting harmful or illegal content.</li>
         </ul>
         <p className="text-gray-300 mb-6">
-          <strong>Intellectual Property:</strong> All content on this site is the property of Get Me A Chai or its content suppliers and protected by intellectual property laws.
+          <strong>Intellectual Property:</strong> All content on this site is the property of Buy me a Snack or its content suppliers and protected by intellectual property laws.
         </p>
         <p className="text-gray-300 mb-6">
           <strong>Disclaimer:</strong> We do not guarantee the success of any crowdfunding campaign. Contributions are made at your own risk.

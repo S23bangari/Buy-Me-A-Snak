@@ -18,7 +18,7 @@ const About = () => {
             &quot;Fueling Creativity, One Cup at a Time&quot;
             </div>
             <p className="p-4 text-gray-200 text-md text-center font-sans">
-              At Get Me A Chai, we are committed to fostering a vibrant
+              At Buy me a Snack, we are committed to fostering a vibrant
               community where developers, creators, and influencers can thrive.
               Our crowdfunding platform is designed to connect talented
               individuals with supporters who believe in their vision and want
@@ -46,7 +46,7 @@ const About = () => {
               that nurtures creativity and drives progress.
             </p>
             <p className="p-4 text-gray-200 text-md text-center font-sans">
-              At Get Me A Chai, we take pride in helping creators reach their
+              At Buy me a Snack, we take pride in helping creators reach their
               full potential. We are passionate about leveraging the power of
               technology to build a community that values and invests in
               creative endeavors. Join us on this exciting journey and be part
@@ -85,7 +85,7 @@ const About = () => {
               Support Creativity and Innovation
             </h2>
             <p className="mx-auto my-4 w-full max-w-xl bg-transparent text-center font-medium leading-relaxed tracking-wide text-gray-400">
-              At Get Me A Chai, we empower developers, creators, and influencers
+              At Buy me a Snack, we empower developers, creators, and influencers
               by connecting them with supporters to fund their projects. No
               technical skills required – our intuitive platform makes it easy
               to receive support and bring your visions to life.
@@ -224,5 +224,5 @@ export default About;
 
 
 export const metadata ={
-  title : "About | Get Me A Chai",
+  title : "About | Buy me a Snack",
 }

@@ -10,7 +10,7 @@ export default function Home() {
     <>
       <SpeedInsights/>
       <Analytics/>
-    <Suspense fallback={<Loader/>}>
+      <Suspense fallback={<Loader/>}>
       <HomePage />
     </Suspense>
     </>

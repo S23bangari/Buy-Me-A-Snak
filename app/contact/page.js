@@ -21,7 +21,7 @@ const ContactUs = () => {
               reach out to us:
             </p>
             <p className="p-4 text-gray-200 text-md text-center font-sans flex flex-col">
-              <span>Email: support@getmeachai.com</span>
+              <span>Email: support@buymeasnack.com</span>
               <span>Phone: +1-800-123-4567</span>
               <span>Address: 123 Creator Lane, Innovation City, CA 90210</span>
             </p>
